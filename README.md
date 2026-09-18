@@ -161,9 +161,9 @@ The workflow consists of multiple specialized processing nodes.
 
 The following three nodes are executed as parallel branches:
 
-Document Verification
-Eligibility Check
-Fraud Detection
+* Document Verification
+* Eligibility Check
+* Fraud Detection
 
 Their results are combined before the Decision Router determines the next step.
 
@@ -361,9 +361,7 @@ Document Verification
 +
 Eligibility Check
 +
-Fraud Detection
-        |
-        v
+Fraud Detection--->
 Decision Router
 ### Step 4: Review the Decision
 
