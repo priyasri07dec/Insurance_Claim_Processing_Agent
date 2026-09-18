@@ -332,15 +332,6 @@ Claim Summary
 ### Environment Management
 * python-dotenv
 
-Project Structure
-Insurance_Claim_Processing_Agent/
-|
-+-- app.py
-+-- claim_agent.py
-+-- requirements.txt
-+-- README.md
-+-- .gitignore
-
 ## How to Use the Application
 ### Step 1: Enter Claim Information
 
