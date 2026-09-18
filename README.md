@@ -251,7 +251,7 @@ Uses Google Gemini to generate the final claim summary.
 ## Conditional Routing
 
 The Decision Router uses conditional routing based on the results of the three processing checks.
-
+```
 Missing Documents
        |
        v
@@ -280,9 +280,9 @@ All Checks Passed
        |
        v
  AUTO APPROVE
- 
+ ```
 ## Human-in-the-Loop Flow
-
+```
 Claim Processing
        |
        v
@@ -311,7 +311,7 @@ Claim Summary
        |
        v
       END
-
+```
 ## Technologies Used
 ### Programming Language
 * Python
