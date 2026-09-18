@@ -45,8 +45,6 @@ Possible results:
 
 If required documents are missing, the claim is routed for rejection.
 
-> Note: The current implementation verifies document submission/presence. It does not perform OCR, document authenticity verification, or detailed content validation.
-
 ### Eligibility Check
 
 The Eligibility Check Agent compares the claim date with the policy expiry date.
