@@ -75,8 +75,6 @@ Claims below or equal to this threshold are marked:
 
 `NO_MAJOR_INDICATOR`
 
-> Note: This is a rule-based fraud-risk check for this educational project. It is not a trained machine learning fraud detection model.
-
 ### Decision Router
 
 The Decision Router combines the outputs from:
